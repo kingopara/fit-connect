@@ -1,0 +1,10 @@
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header styles */
+header {
+    padding: 20px 35px;
+    background-color: antiquewhite;
+}
